@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "341932855785",
+    "firebase_url": "https://pb-quizer.firebaseio.com",
+    "project_id": "pb-quizer",
+    "storage_bucket": "pb-quizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341932855785:android:d85c0705865bd5b689fb78",
+        "android_client_info": {
+          "package_name": "com.popupbits.flutter_fire_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341932855785-tu5b52evapdp80eidgugjkio0hsdjc8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbLbO2GSq7M8w0eop4YYxMF-uHVKtgcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341932855785-tu5b52evapdp80eidgugjkio0hsdjc8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341932855785:android:9c1bf1921194861e89fb78",
+        "android_client_info": {
+          "package_name": "com.popupbits.mathmagic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341932855785-7dhteal515jeej5vrh1s0nn0hujq1e0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.popupbits.mathmagic",
+            "certificate_hash": "67a7d9ac3de2b5587fd9cd8d0879becff84e60bc"
+          }
+        },
+        {
+          "client_id": "341932855785-tu5b52evapdp80eidgugjkio0hsdjc8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbLbO2GSq7M8w0eop4YYxMF-uHVKtgcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341932855785-tu5b52evapdp80eidgugjkio0hsdjc8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
